@@ -1,2 +1,7 @@
-# csv_parser
- A library to extract comma separated values in Arduino
+# CSV Parser Library for Arduino
+
+The CSV Parser Library for Arduino provides a simple way to parse CSV (Comma-Separated Values) strings.
+
+# Examples
+
+Check the examples for use case.
